@@ -36,7 +36,7 @@ Managing multiple Valorant accounts manually is time‑consuming and error‑pro
 /Valorant Account Manager.png
 ```
 
-![Valorant Account Manager UI](./ValorantAccountManager.png)
+![Valorant Account Manager UI](https://media.discordapp.net/attachments/941081627688325150/1458112138026680390/Valorant_Account_Manager.png?ex=695e7440&is=695d22c0&hm=802a3068c2de14e7a20a2af3c337c89e63d32729c64786b9d05a467bffce6474&=&format=webp&quality=lossless&width=1489&height=838)
 
 ---
 
